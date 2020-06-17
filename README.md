@@ -24,3 +24,9 @@ samples, guidance on mobile development, and a full API reference.
 ```
 git clone https://github.com/rismandev/flutterUI_authentication.git
 ```
+
+## Contributtors
+
+<img src="https://github.com/rismandev/kost/blob/master/src/assets/demo/me.jpg" width="100" alt=""/>
+
+Risman Abdilah
