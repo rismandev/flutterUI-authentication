@@ -2,7 +2,7 @@
 
 A new Flutter UI for Authentication.
 
-<img src="assets/images/demo_flutter_authentication.png" alt="Enter Table Number Empty"/>
+<img src="assets/demo_flutter_authentication.png" alt="Enter Table Number Empty"/>
 
 ## Getting Started
 
