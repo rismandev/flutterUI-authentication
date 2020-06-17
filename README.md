@@ -28,3 +28,20 @@ git clone https://github.com/rismandev/flutterUI_authentication.git
 <img src="https://github.com/rismandev/kost/blob/master/src/assets/demo/me.jpg" width="100" alt=""/>
 
 Risman Abdilah
+
+## Connect with me
+
+<p>
+    <a href="tell:089647329246" target="_blank">
+        <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c543.png" width="100" height="100" alt=""/>
+    </a>
+    <a href="https://www.linkedin.com/in/rismandev" target="_blank">
+        <img src="https://cdn1.iconfinder.com/data/icons/iconza-circle-social/64/697071-linkedin-512.png" width="100" height="100" alt=""/>
+    </a>
+    <a href="https://www.facebook.com/risman.abdilah.58" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="100" height="100" alt=""/>
+    </a>
+    <a href="https://www.instagram.com/rismandev" target="_blank">
+        <img src="https://img2.pngdownload.id/20180404/jrq/kisspng-logo-computer-icons-clip-art-instagram-logo-5ac51f36a6c818.6764114215228680226832.jpg" width="100" height="100" alt=""/>
+    </a>
+</p>
