@@ -31,7 +31,7 @@ Risman Abdilah
 
 ## Connect with me
 
-<div>
+<div style="background-color: red; padding: 50px 0px;">
     <a href="tell:089647329246" target="_blank">
         <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c543.png" width="60" height="60" alt=""/>
     </a>
