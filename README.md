@@ -33,11 +33,11 @@ Risman Abdilah
 
 <div>
     <a href="tell:089647329246" target="_blank">
-        <img src="https://github.com/rismandev/flutterUI_authentication/blob/master/assets/connect/whatsapp.png" width="50" height="60" alt=""/>
+        <img src="https://github.com/rismandev/flutterUI_authentication/blob/master/assets/connect/whatsapp.png" width="50" height="50" alt=""/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/rismandev" target="_blank">
-        <img src="https://github.com/rismandev/flutterUI_authentication/blob/master/assets/connect/linkedin.png" width="50" height="60" alt=""/>
+        <img src="https://github.com/rismandev/flutterUI_authentication/blob/master/assets/connect/linkedin.png" width="50" height="50" alt=""/>
     </a>
     &nbsp;
     <a href="https://www.facebook.com/risman.abdilah.58" target="_blank">
