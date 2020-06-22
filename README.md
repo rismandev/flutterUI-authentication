@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Clone
 
 ```
-git clone https://github.com/rismandev/flutterUI_authentication.git
+git clone https://github.com/rismandev/flutterUI-authentication.git
 ```
 
 ## Contributtors
